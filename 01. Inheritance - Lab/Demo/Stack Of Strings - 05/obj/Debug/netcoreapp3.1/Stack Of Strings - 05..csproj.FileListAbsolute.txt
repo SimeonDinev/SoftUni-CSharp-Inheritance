@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\obj\Debug\netcoreapp3.1\Stack Of Strings - 05..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\obj\Debug\netcoreapp3.1\Stack Of Strings - 05..AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\obj\Debug\netcoreapp3.1\Stack Of Strings - 05..AssemblyInfo.cs
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\obj\Debug\netcoreapp3.1\Stack Of Strings - 05..csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\bin\Debug\netcoreapp3.1\Stack Of Strings - 05..exe
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\bin\Debug\netcoreapp3.1\Stack Of Strings - 05..deps.json
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\bin\Debug\netcoreapp3.1\Stack Of Strings - 05..runtimeconfig.json
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\bin\Debug\netcoreapp3.1\Stack Of Strings - 05..runtimeconfig.dev.json
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\bin\Debug\netcoreapp3.1\Stack Of Strings - 05..dll
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\bin\Debug\netcoreapp3.1\Stack Of Strings - 05..pdb
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\obj\Debug\netcoreapp3.1\Stack Of Strings - 05..dll
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\obj\Debug\netcoreapp3.1\Stack Of Strings - 05..pdb
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Stack Of Strings - 05\obj\Debug\netcoreapp3.1\Stack Of Strings - 05..genruntimeconfig.cache

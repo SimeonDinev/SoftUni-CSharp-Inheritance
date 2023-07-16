@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Single Inheritance - 01./1.0.0": {
+        "runtime": {
+          "Single Inheritance - 01..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Single Inheritance - 01./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

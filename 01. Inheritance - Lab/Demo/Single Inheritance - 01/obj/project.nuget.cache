@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WJSBqVshtiYbXmPO9LstizbZJj+yquyRUluS3Wsn/+PFmqeQBSV0KYE6vmXxu3G0hbtACMwYKmc43AvRKkwlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Softuni\\C# Advance, OOP, Fundamentals\\C# OOP\\01. Inheritance - Lab\\Demo\\Single Inheritance - 01\\Single Inheritance - 01..csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

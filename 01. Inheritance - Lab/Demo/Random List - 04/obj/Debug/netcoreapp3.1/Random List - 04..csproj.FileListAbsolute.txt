@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\bin\Debug\netcoreapp3.1\Random List - 04..exe
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\bin\Debug\netcoreapp3.1\Random List - 04..deps.json
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\bin\Debug\netcoreapp3.1\Random List - 04..runtimeconfig.json
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\bin\Debug\netcoreapp3.1\Random List - 04..runtimeconfig.dev.json
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\bin\Debug\netcoreapp3.1\Random List - 04..dll
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\bin\Debug\netcoreapp3.1\Random List - 04..pdb
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\obj\Debug\netcoreapp3.1\Random List - 04..csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\obj\Debug\netcoreapp3.1\Random List - 04..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\obj\Debug\netcoreapp3.1\Random List - 04..AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\obj\Debug\netcoreapp3.1\Random List - 04..AssemblyInfo.cs
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\obj\Debug\netcoreapp3.1\Random List - 04..csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\obj\Debug\netcoreapp3.1\Random List - 04..dll
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\obj\Debug\netcoreapp3.1\Random List - 04..pdb
+C:\Users\USER\Desktop\Softuni 2\C# OOP\01. Inheritance - Lab\Demo\Random List - 04\obj\Debug\netcoreapp3.1\Random List - 04..genruntimeconfig.cache
